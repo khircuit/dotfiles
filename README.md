@@ -6,4 +6,5 @@ Dotfiles of Arch Linux
 - zshy
 
 Screenshot
+
 ![](screenshot.jpg)
